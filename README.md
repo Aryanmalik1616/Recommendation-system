@@ -1,1 +1,6 @@
 # Recommendation-system
+The World Wide Web today offers users an immense amount of information, and commercial activities on the Web have grown so much that hundreds of new companies launch web pages every day. This rapid growth has resulted in the challenge of information overload. Recommender systems were created to tackle this issue by offering suggestions that help users discover content of interest. These systems achieve this by considering either the preferences of individual users or the opinions of a larger community of users.
+
+This thesis aimed to create and assess various methods for generating personalized book recommendations. To accomplish this, the project began by examining existing recommender systems and profiling techniques. Following this, user profiles were built by observing their behavior, and three distinct recommendation approaches were developed. Finally, the system’s recommendation accuracy was evaluated through live user experiments and offline testing using suitable methods.
+
+The evaluation results revealed that the system’s recommendations were highly accurate. It was also found that combining content-based and collaborative filtering techniques leads to more precise book recommendations.
